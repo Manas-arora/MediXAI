@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# ML Models (IMPORTANT)
+model.pth
+RandomForest.pkl
+
+backend/*.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
