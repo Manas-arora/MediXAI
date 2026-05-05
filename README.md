@@ -71,5 +71,9 @@ Frontend: Vercel
 
 This project is for educational and research purposes only. It should not be used as a substitute for professional medical advice.
 
+## 📄 Documentation
+
+- 📘 Final Report: docs/MediXAI_Report.docx  
+- 📊 Presentation: docs/MediXAI_Presentation.pptx
 👨‍💻 Author
 Manas Arora
